@@ -17,7 +17,7 @@ int red=0;
 int green=0;
 int blue=0;
 
-int redddd;
+
 
 unsigned long key_value = 0;
 
